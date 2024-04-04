@@ -5,6 +5,9 @@ Applications to install:
 1.Appium
 2.Android studio
 
-Lib:
+Libraries:
 
 Appium-Python-Client==3.2.1
+AppiumLibrary 
+String
+OperatingSystem
