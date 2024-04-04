@@ -1,6 +1,6 @@
 # Mobile_Automation
 
-Applications Need to install:
+Applications to install:
 
 1.Appium
 2.Android studio
